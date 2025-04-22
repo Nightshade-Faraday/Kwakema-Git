@@ -1,0 +1,44 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "timeline": 1,
+    "event": 2,
+    "test": 3,
+    "Colus": 4,
+    "Choye": 5,
+    "Creonia": 6,
+    "Dapux": 7,
+    "Eplon": 8,
+    "Fucrus": 9,
+    "Glaso": 10,
+    "Hasi": 11,
+    "Huoni": 12,
+    "Ituk": 13,
+    "Odra": 14,
+    "Orish": 15,
+    "Osmar": 16,
+    "Peno": 17,
+    "Proyton": 18,
+    "Ruscoaria": 19,
+    "Smusau": 20,
+    "Totrait": 21,
+    "Urgi": 22,
+    "ch": 23,
+    "me": 24,
+    "now": 25,
+    "Mycologia": 26,
+    "fellands": 27,
+    "Lithos": 28,
+    "Fellands": 29
+  },
+  "_version": 3
+}

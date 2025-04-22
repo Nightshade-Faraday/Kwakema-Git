@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Country Stuff/General\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "path:\"Country Stuff/Countries\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7536895
+      }
+    },
+    {
+      "query": "path:\"Companies + Businesses\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "path:Chracters  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    },
+    {
+      "query": "path:DND  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:\"Plant Life & Biology\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    },
+    {
+      "query": "path:Religon  ",
+      "color": {
+        "a": 1,
+        "rgb": 885376
+      }
+    },
+    {
+      "query": "path:Technology  ",
+      "color": {
+        "a": 1,
+        "rgb": 64167
+      }
+    },
+    {
+      "query": "path:TTRPG  ",
+      "color": {
+        "a": 1,
+        "rgb": 415239
+      }
+    },
+    {
+      "query": "path:\"Important Groups\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10354688
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.7890625,
+  "collapse-forces": true,
+  "centerStrength": 0.265625,
+  "repelStrength": 10.5208333333333,
+  "linkStrength": 1,
+  "linkDistance": 125,
+  "scale": 0.3823010968769998,
+  "close": true
+}

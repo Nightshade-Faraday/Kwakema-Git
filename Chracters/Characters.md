@@ -1,0 +1,23 @@
+- [[Belladonna Faraday]]
+	- CEO of [[Cruxolutions]]
+	- Scientist
+- [[April Caldera]]
+	- CEO of [[Relmera]]
+	- Music Artist
+- [[Erik Todstol]]
+	- President + CEO of [[Keptan Farming]]
+- [[Mika Rotvol]]
+	- VP of [[Cumton Mining]]
+	- Former bartender
+- [[Johnathan Bertan]] and [[Michal Bertan]]
+	- Owners of [[Bertan Brothers]]
+- [[Xedra Phaladeri]]
+	- CEO of [[Verdanta]]
+- [[Leo Markster]]
+	- CEO of [[Telpenten]]
+- [[Calkora Crestlight]]
+	- CEO of [[Apoll-etric]]
+- [[Azalea Topamal]]
+	- CEO of [[Poetre]]
+- [[Henri Shelish]]
+	- Archivist that lives in the [[Fellands]] 

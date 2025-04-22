@@ -1,0 +1,13 @@
+Add more social interaction amongst the differnt countries. Esspecially interactins between [[Ruscoaria]] and [[Mycologia]] plus [[Eplon]] with [[Ituk]]. Also add business interactions and [[Race Supplement|racial]] interactions
+# Beef
+## Countries
+Despite the neutral standing between [[Eplon]] and [[Ruscoaria]], the citizens of each despise each other. Many times it doesn't get physical but the mutual dislike has led to mass slander from both sides
+In stark contrast to [[Eplon]], [[Ituk]] visitors come strapped just in case. Many tourist, workers, and residents have experienced extreme violence form [[Ruscoaria|Ruscoarian]] natives.
+[[Eplon]] and [[Ituk]] have a much more civil relationship. In exchange for the free flowing entertainment (at a slight cost), [[Ituk]] overlooks the exploitation of those trying to leave its country. This has made two sides, the escapees and the smugglers. The smugglers push the escapees toward [[Eplon]] where they get paid for each person the smuggle.
+[[Ituk]] has a very hostile relationship with [[Ruscoaria]]. On top of the trade hostility and the poor treatment of its citizens on [[Ruscoaria|Ruscoarian]] soil, the citizens feel that [[Ruscoaria]] is trying to spy on them through the tech that is imported or bought by [[Ruscoaria|Ruscoarian]] companies
+## Races
+In existence with humans are the [[Race Supplement#Mechanica|Mechanica]] and the [[Race Supplement#Animoid|Animoid]]. Each have their own quirks and minor feuds but tend to live together peacefully for the most part.
+### Notable Conflicts
+- In [[Eplon]], both [[Race Supplement#Mechanica|Mechanica]] and [[Race Supplement#Animoid|Animoid]] are seen as lesser races are often discriminated against. Documented cases have included: Denied jobs and loans, Kicked out of homes or denied housing, Given "lesser" jobs, and treated as if they lack intelligence. This has even permeated down to how [[Race Supplement#Animoid|Animoid]] treat [[Race Supplement#Mechanica|Mechanica]] too.
+- [[Race Supplement#Mechanica|Mechanica]] are often used and abused in [[Ituk]] for jobs where the cost of hiring a human or [[Race Supplement#Animoid|Animoid]] with and [[Exo-Suits|exo-suit]] is too high. Many often don't survive or get severely injured on these jobs for pennies.
+- [[Race Supplement#Animoid|Animoids]] are often the victim of kidnaping by black market dealers who are looking to use their body parts of [[Augments#Naturalistic|Natrualistic Augments]]. The same thing happens to [[Race Supplement#Mechanica|Mechanica]] at a lesser rate. Often being people looking to sell scrap or repair old [[Exo-Suits]].

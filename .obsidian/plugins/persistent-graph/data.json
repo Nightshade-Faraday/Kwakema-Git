@@ -1,0 +1,380 @@
+{
+  "nodePositions": [
+    {
+      "id": "Plant Life & Biology/Cybernira.md",
+      "x": -374.4096984863281,
+      "y": 343.2144470214844
+    },
+    {
+      "id": "Commits.canvas",
+      "x": -45.10445785522461,
+      "y": 210.68133544921875
+    },
+    {
+      "id": "Chracters/Characters.md",
+      "x": -1110.8231201171875,
+      "y": 196.65423583984375
+    },
+    {
+      "id": "Chracters/April Caldera.md",
+      "x": -1062.3336181640625,
+      "y": -11.729083061218262
+    },
+    {
+      "id": "Chracters/Belladonna Faraday.md",
+      "x": -940.8612670898438,
+      "y": 126.99143981933594
+    },
+    {
+      "id": "Companies + Businesses/Cruxolutions.md",
+      "x": -638.6052856445312,
+      "y": 299.5191650390625
+    },
+    {
+      "id": "Country Stuff/Countries/Countries Database.md",
+      "x": 155.19102478027344,
+      "y": -450.3968200683594
+    },
+    {
+      "id": "Country Stuff/Countries/Ruscoaria.md",
+      "x": -494.99053955078125,
+      "y": 286.7401428222656
+    },
+    {
+      "id": "Country Stuff/Countries/Eplon.md",
+      "x": -488.4418640136719,
+      "y": -71.86675262451172
+    },
+    {
+      "id": "Country Stuff/Countries/Mycologia.md",
+      "x": -401.89654541015625,
+      "y": -154.938720703125
+    },
+    {
+      "id": "Country Stuff/Countries/Ituk.md",
+      "x": -606.0564575195312,
+      "y": -48.35274124145508
+    },
+    {
+      "id": "Country Stuff/General/Map.md",
+      "x": -65.91753387451172,
+      "y": -314.0343322753906
+    },
+    {
+      "id": "Country Stuff/General/Currencies.md",
+      "x": -307.9563903808594,
+      "y": -7.522518634796143
+    },
+    {
+      "id": "Country Stuff/General/Death & Burial Rites.md",
+      "x": -189.57513427734375,
+      "y": 12.008075714111328
+    },
+    {
+      "id": "Country Stuff/General/Marriage Customs.md",
+      "x": -284.07354736328125,
+      "y": -125.0211181640625
+    },
+    {
+      "id": "Country Stuff/General/Government.md",
+      "x": -422.451416015625,
+      "y": 28.331619262695312
+    },
+    {
+      "id": "Plant Life & Biology/Nightsroft.md",
+      "x": -420.94464111328125,
+      "y": 192.32545471191406
+    },
+    {
+      "id": "Country Stuff/Countries/Fellands.md",
+      "x": -174.62850952148438,
+      "y": 290.5170593261719
+    },
+    {
+      "id": "Overveiw.md",
+      "x": -217.91709899902344,
+      "y": 139.48365783691406
+    },
+    {
+      "id": "Attachments/Dambonia 2024-02-06-23-58.png",
+      "x": -32.848541259765625,
+      "y": -128.45851135253906
+    },
+    {
+      "id": "Attachments/Dambonia 2024-02-06-23-58(1).png",
+      "x": -70.88751220703125,
+      "y": -5.556892395019531
+    },
+    {
+      "id": "Attachments/Dambonia 2024-02-06-23-58.map",
+      "x": -8.014200210571289,
+      "y": 96.60549926757812
+    },
+    {
+      "id": "Attachments/tsviet_military___war_train___cip_transport_by_avitus12_dd7rrum.jpg",
+      "x": 448.1812744140625,
+      "y": 458.3108825683594
+    },
+    {
+      "id": "Attachments/tsviet_military___war_train___end_car__commission_by_avitus12_dd7pbjo.jpg",
+      "x": 470.5693054199219,
+      "y": 340.44342041015625
+    },
+    {
+      "id": "Attachments/tsviet_military___war_train___the_gun_car_by_avitus12_dd8dcrk.jpg",
+      "x": 357.2784729003906,
+      "y": 379.9911193847656
+    },
+    {
+      "id": "Attachments/skytrain___project__diesel_pirate_by_metadragonart_dbwbtbo.jpg",
+      "x": 379.6531982421875,
+      "y": 262.1426086425781
+    },
+    {
+      "id": "Companies + Businesses/Relmera.md",
+      "x": -668.3255615234375,
+      "y": 54.19489288330078
+    },
+    {
+      "id": "Companies + Businesses/Keptan Farming.md",
+      "x": -790.3839721679688,
+      "y": -59.24940872192383
+    },
+    {
+      "id": "Companies + Businesses/Cumton Mining.md",
+      "x": -871.5691528320312,
+      "y": 29.049192428588867
+    },
+    {
+      "id": "Chracters/Mika Rotvol.md",
+      "x": -1157.980712890625,
+      "y": -84.18651580810547
+    },
+    {
+      "id": "Chracters/Erik Todstol.md",
+      "x": -972.78125,
+      "y": -185.64920043945312
+    },
+    {
+      "id": "Events/Mezotopian War.md",
+      "x": -589.2742309570312,
+      "y": 190.13641357421875
+    },
+    {
+      "id": "Attachments/e8e71d3707959f288e5c0e14a8fead63.jpg",
+      "x": 128.74835205078125,
+      "y": 718.5374145507812
+    },
+    {
+      "id": "Attachments/ef673e6d666bb098175adc96fdaac361.jpg",
+      "x": 103.37918090820312,
+      "y": 601.2921752929688
+    },
+    {
+      "id": "Religon/Gods.md",
+      "x": 98.98775482177734,
+      "y": 185.59719848632812
+    },
+    {
+      "id": "Attachments/1374f84acdbaf6d4405a1e6c383553fe.jpg",
+      "x": 520.7567138671875,
+      "y": 572.12060546875
+    },
+    {
+      "id": "Companies + Businesses/Bertan Brothers.md",
+      "x": -780.850830078125,
+      "y": 107.55261993408203
+    },
+    {
+      "id": "Chracters/Johnathan Bertan.md",
+      "x": -919.6065063476562,
+      "y": 245.0784454345703
+    },
+    {
+      "id": "Chracters/Michal Bertan.md",
+      "x": -869.3639526367188,
+      "y": 354.0332946777344
+    },
+    {
+      "id": "Attachments/Fellands.pspimage",
+      "x": 84.75397491455078,
+      "y": -547.4693603515625
+    },
+    {
+      "id": "Attachments/Spread map.png",
+      "x": -164.03604125976562,
+      "y": 520.5042114257812
+    },
+    {
+      "id": "Attachments/Lab map.png",
+      "x": -163.920654296875,
+      "y": 640.4421997070312
+    },
+    {
+      "id": "Attachments/Eplon Zones.png",
+      "x": -521.4224243164062,
+      "y": -284.66644287109375
+    },
+    {
+      "id": "Attachments/Eplon.pspimage",
+      "x": -34.5167350769043,
+      "y": -535.1016845703125
+    },
+    {
+      "id": "Attachments/Mycologia.pspimage",
+      "x": -146.9392547607422,
+      "y": -493.33551025390625
+    },
+    {
+      "id": "Attachments/canapy hole.png",
+      "x": -388.7049865722656,
+      "y": -367.90863037109375
+    },
+    {
+      "id": "Attachments/Train Map.png",
+      "x": 174.25015258789062,
+      "y": -59.16254425048828
+    },
+    {
+      "id": "Attachments/Everything.png",
+      "x": 35.835086822509766,
+      "y": -437.9156494140625
+    },
+    {
+      "id": "Attachments/Randerven.pspimage",
+      "x": 116.62777709960938,
+      "y": -336.83502197265625
+    },
+    {
+      "id": "Events/Outbreak.md",
+      "x": -408.7021179199219,
+      "y": 671.5708618164062
+    },
+    {
+      "id": "Companies + Businesses/Verdanta.md",
+      "x": -825.360107421875,
+      "y": 503.573486328125
+    },
+    {
+      "id": "Companies + Businesses/Telpenten.md",
+      "x": -796.06396484375,
+      "y": 619.9315185546875
+    },
+    {
+      "id": "Events/Outbreak Events.md",
+      "x": -527.4305419921875,
+      "y": 581.9814453125
+    },
+    {
+      "id": "TTRPG/TTRPG Systems.md",
+      "x": -343.15338134765625,
+      "y": 526.802490234375
+    },
+    {
+      "id": "Plant Life & Biology/Polyglycorphoric acid.md",
+      "x": -256.402099609375,
+      "y": 443.9414367675781
+    },
+    {
+      "id": "Technology/Exo-Suits.md",
+      "x": -563.147216796875,
+      "y": 797.7681274414062
+    },
+    {
+      "id": "Technology/Plug-Suits.md",
+      "x": -624.6320190429688,
+      "y": 652.2859497070312
+    },
+    {
+      "id": "Technology/Augments.md",
+      "x": -457.2679748535156,
+      "y": 479.7569580078125
+    },
+    {
+      "id": "TTRPG/Story.md",
+      "x": -700.1945190429688,
+      "y": 745.481201171875
+    },
+    {
+      "id": "TTRPG/Characters.md",
+      "x": -734.840576171875,
+      "y": 949.0667114257812
+    },
+    {
+      "id": "Events/Nightsroft Scare of 2103.md",
+      "x": -693.7157592773438,
+      "y": -130.26470947265625
+    },
+    {
+      "id": "Events/Ituk Mining Accidents.md",
+      "x": -718.7282104492188,
+      "y": 210.21109008789062
+    },
+    {
+      "id": "Technology/Transport Line.md",
+      "x": 133.71934509277344,
+      "y": 323.35614013671875
+    },
+    {
+      "id": "Technology/Fusion Reactor.md",
+      "x": -289.35455322265625,
+      "y": 642.588623046875
+    },
+    {
+      "id": "Technology/The Prism.md",
+      "x": -1124.684326171875,
+      "y": 672.9343872070312
+    },
+    {
+      "id": "Companies + Businesses/Apoll-etric.md",
+      "x": -1107.10888671875,
+      "y": 499.3242492675781
+    },
+    {
+      "id": "Companies + Businesses/Poetre.md",
+      "x": -1144.9296875,
+      "y": 385.4534912109375
+    },
+    {
+      "id": "Chracters/Xedra Phaladeri.md",
+      "x": -1023.4780883789062,
+      "y": 413.2822265625
+    },
+    {
+      "id": "Chracters/Leo Markster.md",
+      "x": -1026.4366455078125,
+      "y": 588.1461181640625
+    },
+    {
+      "id": "Chracters/Calkora Crestlight.md",
+      "x": -1285.3304443359375,
+      "y": 387.9122619628906
+    },
+    {
+      "id": "Chracters/Azalea Topamal.md",
+      "x": -1313.79248046875,
+      "y": 504.443115234375
+    },
+    {
+      "id": "Attachments/warnings map.png",
+      "x": -329.20458984375,
+      "y": 865.343017578125
+    },
+    {
+      "id": "Credits.md",
+      "x": 325.8537902832031,
+      "y": 495.7708435058594
+    },
+    {
+      "id": "Religon/Religious Institutions.md",
+      "x": -334.1053466796875,
+      "y": 109.51567077636719
+    },
+    {
+      "id": "Events/Timeline.md",
+      "x": -623.5852661132812,
+      "y": 418.56243896484375
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

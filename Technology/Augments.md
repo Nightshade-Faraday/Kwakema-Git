@@ -1,0 +1,7 @@
+Augments are a very common thing across the world with [[Mycologia]] being the only known exception. Many are implemented just for looks while some others have a bit of practical use. There are 2 major types of augments, cybernetic and naturalistic.
+# Cybernetic
+Cybernetic mods are often fused to to the end of a limb/stump on a person. Most times where there isn't an attachment point, one is created via surgery to remove the area of the body where the augment will go. These mods interface with an implanted chip into the base of the spine or with another mod that is implanted on top of the spine.
+## Primer
+In order to prep the body and interaction site a version of [[Polyglycorphoric acid]] that would make the body more open to the foreign metals/materials
+# Naturalistic
+Naturalistic mods are a lot more experimental and have not been released to the public officially. Lots of black market doctors will still do it and fuse any living limb to a person. It's really risky due to the high rate of rejection, infection, and other complications. In addition those who have successful procedures often suffer scrutiny and/or additional medical problems. Information is limited on the specifics of the process due to the level of secrecy and the differing methods and ideology.

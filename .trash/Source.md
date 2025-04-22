@@ -1,0 +1,165 @@
+# Old
+- Magic
+	- [[Cybernira]]
+		- Elemental
+			- Altering world aspects and elements
+			- Very common with high levels of variation
+		- Metaphysical
+			- Altering the flow of time and universal constants
+			- Ultra rare but very little variation
+	- BNHA inspired
+		- Everyone has the chance to get a skill
+			- Not everyone will manifest it or be able to control it
+- Heroes
+	- Ever hero has a skill
+		- Mainly do to skills being seen as making them elite
+	- Anyone can be a hero
+		- If they compete the hero program and pass the final test
+			- Most hero students die in the final test
+- Characters
+	- Rune
+		- Aspireing student
+		- MC
+	- Rue
+		- Friend of Rune
+		- Aspirng student
+	- April
+		- Head of the hero borad
+		- Villian
+			- Wants to keep heroes as the most eleite of elite and anyone who is not worthy is to be purged
+			- Also dislikes the idea of somone who has no skill or rarely uses it becomeong a hero
+
+# Redefined
+## To Do
+- [ ] Detail countries
+- [ ] Define other [[Currencies|currencies]]
+- [ ] Begin timeline
+- [ ] Detail Skills
+
+## Item List
+- Skills
+	- Given to characters from the accident
+- [[Characters]]
+	- [[Belladonna Faraday]]
+		- Scientist
+	- [[April]]
+		- Head of [[Cruxolutions]]
+			- [[Cruxolutions]] runs a university
+				- [[Choye Academy]]
+	- [[Rune]]
+		- Student
+	- [[Tavora]]
+		- Demon
+- [[Cruxolutions]]
+	- Starts a project 
+		- Project is supposed to 
+			- Leads to exposure of Rune and their class to an unknown energy that gives them the previously mentioned skills
+			- Introduces the world to demons like [[Tavora]]
+	- Run by [[April]]
+	- Sponsors of  [[Choye Academy]]
+- [[Full Timeline]]
+	- [[Mezotopian War]]
+		- [[Cruxolutions]] start
+	- [[the incident]]
+		- Creations of [[Cybernira]]
+			- given to
+				- [[Rune]]
+				- [[Daniel]]
+					- Daniel voice
+						- https://youtube.com/clip/UgkxXbfwfFZrLucJcf0SudYNFu3qQREVI0-_?si=tbZgirhbf-Jx9jp2
+		- introduction of 
+			- [[Tavora]]
+			- Demon realm
+			- multiverse/alternate universes
+	- [[demon war]]
+		- history of [[Tavora]]
+	- Creation of [[Tartarus Neo Terminal]]
+		- Lead on to launch
+- Countries
+	- [[Eplon]]
+		- Ep-lon
+		- Location of 
+			- Tower -88
+			- Lab - 78
+		- Broadcast and entertainment
+		- Leaches talent from [[Choye]] for productons and entertainment projects
+	- [[Mycologia]]
+		- Cre-on-ya
+		- Isolationist
+		- Anti corporation
+			- Pro communism
+		- Safe place for criminals that try to take down governments like [[Ruscoaria]] or try to take down corporations like [[Cruxolutions]]
+	- [[Smusau]]
+		- S-ma-sue
+		- Toursim
+		- Often gives bonuses to companies that bring in large amounts of tourist
+			- Has led to shady practices that have been "overlooked" by a few governmental boards/agencies
+	- [[Ituk]]
+		- I-tuk
+		- Farming and Agriculture
+			- Use hard labor
+		- Goverment often buys a lot of weapons to keep a strong standing army 
+		- Also trying to bring in tech/industrial companies to try competing with [[Ruscoaria]]'s industry
+	- [[Ruscoaria]]
+		- Rus-co-are-ee-a
+		- Headquarters of [[Cruxolutions]]
+		- Technology and weapons
+		- Furthering the limits of technology
+		- Safe space for mega-corporations and tech companies
+			- Mining
+	- [[Proyton]]
+		- Pr-oi-ton
+		- Raw materials
+		- Extracting world resources
+		- Goverment gives free reign to mining companies
+			- Stomps out Revolution
+	- [[Choye]]
+		- Cho-yeh
+		- Location of [[Choye Academy]]
+		- Entertainment and Knowledge
+		- Focus on art and entertainment and libraries/colleges
+![[World 4 Map.png]]
+
+# Reset
+- Countries
+	- [[Eplon]]
+		- Ep-lon
+		- Location of 
+			- Tower -88
+			- Lab - 78
+		- Broadcast and entertainment
+		- Empire of talent of entertainment production
+	- [[Mycologia]]
+		- Cre-on-ya
+		- Isolationist
+		- Anti corporation
+		- Safe place for criminals that try to take down governments like [[Ruscoaria]] or try to take down corporations like [[Cruxolutions]]
+	- [[Ituk]]
+		- I-tuk
+		- Farming and Agriculture
+			- Use hard labor
+		- Raw materials
+		- Extracting world resources
+		- Goverment often buys a lot of weapons to keep a strong standing army 
+	- [[Ruscoaria]]
+		- Rus-co-are-ee-a
+		- Headquarters of [[Cruxolutions]]
+		- Technology and weapons
+		- Furthering the limits of technology
+- [[Cruxolutions]]
+	- Fusion Reactor
+	- Transport Line
+- [[Fellands]]
+	- Infection
+		- Cybernira Infection
+			- Zombie like
+				- Anything above cat/dog
+					- Mimic the entity but not well
+				- Humans act like zombies
+					- 
+- [[Nightsroft]]
+	- Skulk like
+	- Mushroom spores
+
+[[Commits.canvas|Commits]]
+
