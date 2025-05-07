@@ -21,3 +21,5 @@
 	- CEO of [[Poetre]]
 - [[Henri Shelish]]
 	- Archivist that lives in the [[Fellands]] 
+- [[Hasmen Dermen]]
+	- CEO of [[Dover Refining]]

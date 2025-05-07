@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/The Prism.md",
+                "file": "Chracters/Detailed Characters/Dermen Family.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Prism"
+              "title": "Dermen Family"
             }
           },
           {
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "404f25da6b49d043",
@@ -248,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/The Prism.md",
+                "file": "Chracters/Detailed Characters/Dermen Family.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Prism"
+              "title": "Outline of Dermen Family"
             }
           },
           {
@@ -335,44 +335,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40f29fcf219474ff",
+  "active": "e22eb57c6f16a763",
   "lastOpenFiles": [
-    "README.md",
-    "Kwakema-Git",
-    "Plant Life & Biology/Forced Evolution Viruses.md",
-    "Plant Life & Biology/Kanaveer.md",
-    "Space Stuff/The Rings.md",
     "Events/Timeline.md",
-    "Space Stuff/Galactic Council.md",
+    "Chracters/Detailed Characters/Dermen Family.md",
+    "Space Stuff/Space Governmets.md",
+    "Chracters/Characters.md",
+    "Chracters/Detailed Characters/Hasmen Dermen.md",
+    "Chracters/Detailed Characters/Mika Rotvol.md",
+    "Chracters/Detailed Characters/Henri Shelish.md",
+    "Chracters/Detailed Characters/Johnathan Bertan.md",
+    "Chracters/Detailed Characters/Leo Markster.md",
+    "Companies + Businesses/Dover Refining.md",
+    "Companies + Businesses/Relmera.md",
+    "Companies + Businesses/Cumton Mining.md",
+    "Companies + Businesses/Bertan Brothers.md",
+    "Chracters/Detailed Characters/Bertan Family.md",
+    "Chracters/Detailed Characters/Faraday Family.md",
+    "Chracters/Detailed Characters/Markster Family.md",
+    "Chracters/Detailed Characters/Marcus Faraday.md",
+    "Country Stuff/Countries/Ruscoaria.md",
+    "Country Stuff/General/Government.md",
+    "Space Stuff/Family Houses.md",
+    "Space Stuff/The Rings.md",
+    "Space Stuff/Ship Ports.md",
+    "Space Stuff/Ship Docks.md",
+    "Technology/Ocean Travel.md",
+    "Technology/Plug-Suits.md",
+    "Technology/Space Mechs.md",
+    "Kwakema-Git",
     "Space Stuff",
-    "Technology/Canevery Space Station.md",
-    "TTRPG/TTRPG Systems.md",
     "TTRPG/CC_2025-04-18.compcon",
-    "Events/The Expansion.md",
-    "TTRPG/Story.md",
-    "Technology/Hyperlanes.md",
-    "TTRPG/Flow Chart.md",
-    "TTRPG/PHSC Story.md",
-    "Technology/Exo-Suits.md",
     "TTRPG/CC_2025-04-17.compcon",
-    "TTRPG/PHSC Characters.md",
-    "Overveiw.md",
     "Attachments/calendar.json",
-    "calendar.json.md",
-    "Credits.md",
     "Attachments/1374f84acdbaf6d4405a1e6c383553fe.jpg",
     "Attachments/Cover Image copy.webp",
-    "Technology/Plug-Suits.md",
     "Commits.canvas",
     "Attachments/de44e4ea6cdb3a006c88edcb7a5a47d6.jpg",
     "Attachments/bspined-as-cover2.jpg",
-    "Country Stuff/General/Currencies.md",
-    "Drabbles/Choke.md",
-    "Events/Tapes of the Lost.md",
-    "Events/Project Broken Barrel.md",
-    "Events/Outbreak Events.md",
-    "Events/Outbreak.md",
-    "Events/Nightsroft Scare of 2103.md",
     "Zone_Receiver.jpg",
     "Attachments/Zone_Receiver.jpg",
     "Attachments/Zone_stabilizer.jpg",

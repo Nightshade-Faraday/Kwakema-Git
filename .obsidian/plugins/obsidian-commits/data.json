@@ -5,9 +5,9 @@
   ],
   "filesCheckpoint": {
     "Chracters/Characters.md": {
-      "size": 572,
+      "size": 620,
       "tags": 0,
-      "links": 21
+      "links": 23
     },
     "Companies + Businesses/Cruxolutions.md": {
       "size": 1544,
@@ -330,9 +330,9 @@
       "links": 3
     },
     "Chracters/Detailed Characters/Markster Family.md": {
-      "size": 701,
+      "size": 1033,
       "tags": 0,
-      "links": 2
+      "links": 4
     },
     "Chracters/Detailed Characters/Michal Bertan.md": {
       "size": 1751,
@@ -445,22 +445,67 @@
       "links": 10
     },
     "Space Stuff/The Rings.md": {
-      "size": 248,
+      "size": 903,
       "tags": 0,
-      "links": 0
+      "links": 2
     },
     "README.md": {
       "size": 64,
       "tags": 0,
       "links": 0
+    },
+    "Events/Mycologia Revitalization.md": {
+      "size": 717,
+      "tags": 0,
+      "links": 2
+    },
+    "Space Stuff/Ship Docks.md": {
+      "size": 1552,
+      "tags": 0,
+      "links": 3
+    },
+    "Space Stuff/Ship Ports.md": {
+      "size": 727,
+      "tags": 0,
+      "links": 4
+    },
+    "Space Stuff/Space Governmets.md": {
+      "size": 1140,
+      "tags": 0,
+      "links": 13
+    },
+    "Chracters/Detailed Characters/Faraday Family.md": {
+      "size": 556,
+      "tags": 0,
+      "links": 5
+    },
+    "Chracters/Detailed Characters/Bertan Family.md": {
+      "size": 466,
+      "tags": 0,
+      "links": 4
+    },
+    "Chracters/Detailed Characters/Dermen Family.md": {
+      "size": 383,
+      "tags": 0,
+      "links": 5
+    },
+    "Companies + Businesses/Dover Refining.md": {
+      "size": 434,
+      "tags": 0,
+      "links": 3
+    },
+    "Chracters/Detailed Characters/Hasmen Dermen.md": {
+      "size": 1483,
+      "tags": 0,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 385,
-      "Create": 155,
-      "Link": 444,
-      "Expand": 919
+      "Refactor": 391,
+      "Create": 165,
+      "Link": 468,
+      "Expand": 957
     }
   },
   "dailyCommits": {
@@ -477,12 +522,12 @@
       "9": 105,
       "10": 101,
       "11": 59,
-      "12": 175,
-      "13": 259,
-      "14": 213,
-      "15": 131,
-      "16": 46,
-      "17": 67,
+      "12": 182,
+      "13": 260,
+      "14": 223,
+      "15": 157,
+      "16": 73,
+      "17": 74,
       "18": 34,
       "19": 30,
       "20": 33,
@@ -496,7 +541,7 @@
       "Mon": 273,
       "Tue": 363,
       "Wed": 332,
-      "Thu": 236,
+      "Thu": 314,
       "Fri": 191,
       "Sat": 0,
       "Sun": 508
@@ -505,6 +550,44 @@
   "recentCommits": {
     "/": {
       "Expanded": [
+        "<a class=\"internal-link\" href=\"Chracters/Characters.md\"> Characters </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
+        "<a class=\"internal-link\" href=\"Companies + Businesses/Dover Refining.md\"> Dover Refining </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Bertan Family.md\"> Bertan Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Markster Family.md\"> Markster Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Galactic Council of Kwakema.md\"> Galactic Council of Kwakema </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
         "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Forced Evolution Viruses.md\"> Forced Evolution Viruses </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Forced Evolution Viruses.md\"> Forced Evolution Viruses </a>",
@@ -517,47 +600,19 @@
         "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
         "<a class=\"internal-link\" href=\"Technology/Hyperlanes.md\"> Hyperlanes </a>",
         "<a class=\"internal-link\" href=\"Technology/Hyperlanes.md\"> Hyperlanes </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
-        "<a class=\"internal-link\" href=\"Overveiw.md\"> Overveiw </a>",
-        "<a class=\"internal-link\" href=\"Credits.md\"> Credits </a>",
-        "<a class=\"internal-link\" href=\"Technology/Plug-Suits.md\"> Plug-Suits </a>",
-        "<a class=\"internal-link\" href=\"Credits.md\"> Credits </a>",
-        "<a class=\"internal-link\" href=\"Credits.md\"> Credits </a>",
-        "<a class=\"internal-link\" href=\"Technology/Exo-Suits.md\"> Exo-Suits </a>",
-        "<a class=\"internal-link\" href=\"Credits.md\"> Credits </a>",
-        "<a class=\"internal-link\" href=\"Technology/Atalanta System.md\"> Atalanta System </a>",
-        "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
-        "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
-        "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
-        "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
-        "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
-        "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
-        "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/TTRPG Systems.md\"> TTRPG Systems </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Companies + Businesses/Verdanta.md\"> Verdanta </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Companies + Businesses/Verdanta.md\"> Verdanta </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>"
+        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
+        "<a class=\"internal-link\" href=\"Companies + Businesses/Dover Refining.md\"> Dover Refining </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Bertan Family.md\"> Bertan Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Family Houses.md\"> Family Houses </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Galactic Council of Kwakema.md\"> Galactic Council of Kwakema </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycolgia Revitalization.md\"> Mycolgia Revitalization </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Space Stuff/Galactic Council.md\"> Galactic Council </a>",
         "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
@@ -598,19 +653,11 @@
         "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Azalea Topamal.md\"> Azalea Topamal </a>",
         "<a class=\"internal-link\" href=\"Country Stuff/General/Social Suppliment.md\"> Social Suppliment </a>",
         "<a class=\"internal-link\" href=\"Important Groups/The Equalizers.md\"> The Equalizers </a>",
-        "<a class=\"internal-link\" href=\"Important Groups/The Mudrunners.md\"> The Mudrunners </a>",
-        "<a class=\"internal-link\" href=\"Plant Life & Biology/Minral.md\"> Minral </a>",
-        "<a class=\"internal-link\" href=\"Chracters/Henri Shelish.md\"> Henri Shelish </a>",
-        "<a class=\"internal-link\" href=\"Important Groups/Rangers of the New Sight.md\"> Rangers of the New Sight </a>",
-        "<a class=\"internal-link\" href=\"Important Groups/Protectors of the Old Land.md\"> Protectors of the Old Land </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Inciting Incident.md\"> Inciting Incident </a>",
-        "<a class=\"internal-link\" href=\"Events/Fellands Unrest.md\"> Fellands Unrest </a>",
-        "<a class=\"internal-link\" href=\"Events/Mezotopian War.md\"> Mezotopian War </a>",
-        "<a class=\"internal-link\" href=\"Chracters/Markster Family.md\"> Markster Family </a>",
-        "<a class=\"internal-link\" href=\"Religon/(COTL Inspired one).md\"> (COTL Inspired one) </a>",
-        "<a class=\"internal-link\" href=\"Chracters/Marcus Faraday.md\"> Marcus Faraday </a>"
+        "<a class=\"internal-link\" href=\"Important Groups/The Mudrunners.md\"> The Mudrunners </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Kanaveer.md\"> Kanaveer </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Moon Symbiote.md\"> Moon Symbiote </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Moon.md\"> Moon </a>",
@@ -659,9 +706,7 @@
         "<a class=\"internal-link\" href=\"Country Stuff/Countries/Ituk 1.md\"> Ituk 1 </a>",
         "<a class=\"internal-link\" href=\"RPG Stuff/Character Stuff/Races.md\"> Races </a>",
         "<a class=\"internal-link\" href=\"Full Timeline.md\"> Full Timeline </a>",
-        "<a class=\"internal-link\" href=\"Country Stuff/General/Languages.md\"> Languages </a>",
-        "<a class=\"internal-link\" href=\"Country Stuff/General/Government.md\"> Government </a>",
-        "<a class=\"internal-link\" href=\"Government.md\"> Government </a>"
+        "<a class=\"internal-link\" href=\"Country Stuff/General/Languages.md\"> Languages </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"Timeline.md\"> Timeline </a>",
@@ -700,6 +745,8 @@
         "<a class=\"internal-link\" href=\"Events/Outbreak Timeline.md\"> Outbreak Timeline </a>"
       ],
       "Refactored": [
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
         "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
         "<a class=\"internal-link\" href=\"Technology/The Prism.md\"> The Prism </a>",
         "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
@@ -748,11 +795,10 @@
         "<a class=\"internal-link\" href=\"Companies + Businesses/Telpenten.md\"> Telpenten </a>",
         "<a class=\"internal-link\" href=\"Companies + Businesses/Cruxolutions.md\"> Cruxolutions </a>",
         "<a class=\"internal-link\" href=\"Companies + Businesses/Verdanta.md\"> Verdanta </a>",
-        "<a class=\"internal-link\" href=\"Country Stuff/Countries/Fellands.md\"> Fellands </a>",
-        "<a class=\"internal-link\" href=\"DND/River.md\"> River </a>",
-        "<a class=\"internal-link\" href=\"DND/River.md\"> River </a>"
+        "<a class=\"internal-link\" href=\"Country Stuff/Countries/Fellands.md\"> Fellands </a>"
       ],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Space Stuff/Family Houses.md\"> Family Houses </a>",
         "<a class=\"internal-link\" href=\"README.md\"> README </a>",
         "<a class=\"internal-link\" href=\"Space Stuff/Galactic Council.md\"> Galactic Council </a>",
         "<a class=\"internal-link\" href=\"calendar.json.md\"> calendar.json </a>",
@@ -802,10 +848,33 @@
         "<a class=\"internal-link\" href=\"DND/River.md\"> River </a>",
         "<a class=\"internal-link\" href=\"DND/Cherry.md\"> Cherry </a>",
         "<a class=\"internal-link\" href=\"DND/Dugeon 1.md\"> Dugeon 1 </a>",
-        "<a class=\"internal-link\" href=\"DND/Enchant Table.md\"> Enchant Table </a>",
-        "<a class=\"internal-link\" href=\"DND/Gem.md\"> Gem </a>"
+        "<a class=\"internal-link\" href=\"DND/Enchant Table.md\"> Enchant Table </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Chracters/Characters.md\"> Characters </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
+        "<a class=\"internal-link\" href=\"Companies + Businesses/Dover Refining.md\"> Dover Refining </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Bertan Family.md\"> Bertan Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Dermen Family.md\"> Dermen Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Markster Family.md\"> Markster Family </a>",
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Faraday Family.md\"> Faraday Family </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Space Governmets.md\"> Space Governmets </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Galactic Council of Kwakema.md\"> Galactic Council of Kwakema </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Ports.md\"> Ship Ports </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/Ship Docks.md\"> Ship Docks </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Space Stuff/The Rings.md\"> The Rings </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
+        "<a class=\"internal-link\" href=\"Events/Mycologia Revitalization.md\"> Mycologia Revitalization </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Forced Evolution Viruses.md\"> Forced Evolution Viruses </a>",
         "<a class=\"internal-link\" href=\"Events/Timeline.md\"> Timeline </a>",
         "<a class=\"internal-link\" href=\"Plant Life & Biology/Forced Evolution Viruses.md\"> Forced Evolution Viruses </a>",
@@ -832,31 +901,7 @@
         "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
         "<a class=\"internal-link\" href=\"Technology/Cloning.md\"> Cloning </a>",
         "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"Overveiw.md\"> Overveiw </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/TTRPG Systems.md\"> TTRPG Systems </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Companies + Businesses/Verdanta.md\"> Verdanta </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"Events/The Expansion.md\"> The Expansion </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Characters.md\"> PHSC Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"Technology/Atalanta System.md\"> Atalanta System </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
-        "<a class=\"internal-link\" href=\"Country Stuff/Countries/Ituk.md\"> Ituk </a>",
-        "<a class=\"internal-link\" href=\"Country Stuff/Countries/Ruscoaria.md\"> Ruscoaria </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Characters.md\"> Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Characters.md\"> Characters </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
-        "<a class=\"internal-link\" href=\"Plant Life & Biology/Kanaveer.md\"> Kanaveer </a>",
-        "<a class=\"internal-link\" href=\"Plant Life & Biology/The Shit that was on the Moon.md\"> The Shit that was on the Moon </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/TTRPG Systems.md\"> TTRPG Systems </a>"
+        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Timeline.md\"> Timeline </a>",
@@ -873,6 +918,7 @@
         "<a class=\"internal-link\" href=\"Country Stuff/Countries/Eplon.md\"> Eplon </a>"
       ],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"Chracters/Detailed Characters/Hasmen Dermen.md\"> Hasmen Dermen </a>",
         "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>",
         "<a class=\"internal-link\" href=\"Companies + Businesses/Valley View Academy.md\"> Valley View Academy </a>",
         "<a class=\"internal-link\" href=\"Chracters/Rune.md\"> Rune </a>",
@@ -922,8 +968,7 @@
         "<a class=\"internal-link\" href=\"Chracters/Race Supplement.md\"> Race Supplement </a>",
         "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
         "<a class=\"internal-link\" href=\"Technology/Space Mechs.md\"> Space Mechs </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>",
-        "<a class=\"internal-link\" href=\"TTRPG/PHSC Story.md\"> PHSC Story </a>"
+        "<a class=\"internal-link\" href=\"TTRPG/Story.md\"> Story </a>"
       ]
     }
   },
