@@ -5,5 +5,6 @@ In [[Mycologia]] the plan to revitalize the [[Fellands]] was unpopular amongst t
 
 In an attempt to turn some of the elders to her side, the king decided that once the [[Fellands]] was revitalized [[Mycologia]] would then take them as either a vassal state or absorb them into [[Mycologia]].
 ## Ruscoaria
+[[Bertan Brothers#Bertan Brother Inc.|Bertan Brothers Inc.]] establishes a new hub in [[Ruscoaria]] to better oversee the progress of the project and help coordinate the trafficking of materials
 
 ## Fellands

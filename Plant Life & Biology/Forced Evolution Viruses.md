@@ -2,6 +2,8 @@ The Forced Evolution Viruses were part of a major project started by [[Cruxoluti
 
 # A Series
 The A series was the most hack and slash method of making an evolution virus. It consisted of was only [[Kanaveer]] and locking the subject in a room with it. This lead to many failed experiments as most subjects died and those that didn't ended up similar to [[Kanaveer#The Subject|The Subject]].
+## Anomaly 002
+[[Kanaveer#Anomaly 002|Anomaly 002]] was Subject-A-4458 of the [[Forced Evolution Viruses|Forced Evolution Virus]] projects. Subject-A-4458 was apart of the [[Forced Evolution Viruses#A Series|A Series]] and was deemed a failure as they died in the process of assimilation. Upon disposal of the body the [[Kanaveer]] sample that was used took root and restarted the bodies function eventually repairing the brain.
 # B Series
 The B series was more refined than the A series due to working off of [[Verdanta]]'s [[Nightsroft]] experiments. The success rate was high but not high enough and many of the subjects ended up devolving into the already know infection variants.
 # C Series

@@ -51,6 +51,8 @@ When it comes to making things move faster and getting the party things they nee
 - He/Him
 - Genderfluid
 - Personality
+	- Shaky
+Newtone is a relatively new coordinator who works for [[Bertan Brothers#Bertan Brother Inc.|Bertan Brother Inc.]]. Living out in the [[The Rings#Mid Ring|Mid Ring]] he tends to be out of the loop on things and has to be intentionally roped into the loop. Despite being so far away, he does do his job well and will do everything he can to make sure the team he is assigned makes it home. In his department he has the most flawless record with every team hes been assigned having made it back home with minimal injuries
 # PC
 ## Spiree
 - They/She

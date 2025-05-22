@@ -10,3 +10,7 @@ Industry: Business
 Worth: ~$1 million 
 Motivation: "Everything should be nice and neat"
 Employee Count: 10,000
+
+## Subsidiaries
+### Bertan Brother Inc.
+The [[Bertan Family#Post Expansion|Post Expansion]] reestablishment of the Bertan Brothers. Often the person that bankrolls large initiatives like the [[Mycologia Revitalization]]

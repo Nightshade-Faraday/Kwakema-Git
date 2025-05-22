@@ -1,3 +1,5 @@
+# Allowed Topics
+![[PHSC Lancer - RPG Topic Graph.png]]
 # Recovery
 Takes place a few years after the [[Outbreak]] but several years before [[PHSC Story#Tarnishing Grace|Tarnishing Grace]]. Thus [[Exo-Suits]] are still a sort of new thing and people being cleared to use them is a big deal. The year 2110 would fit for characters ages if they move on to [[PHSC Story#Tarnishing Grace|Tarnishing Grace]].
 The [[Fellands]] have been evacuated and walled but not fully mapped. The party is one of 18 task forces sent in to map out the area. Their job is mostly to turn on the [[Atalanta System]]. A series of towers that were used for communication and now to map out the new landscape
@@ -152,6 +154,9 @@ _The party now can pick a location as a central base from which they will depart
 ## Arc 2 - The Rise
 ### Chapter 1 - Bridges Built
 Upon arriving at the new base the party is greeted by a mysterious visitor. The person they meet is [[TTRPG/Characters#Rafi|Rafi]] who introduces himself before giving them a summons to the [[Eplon#Government|Eplon council]].
+#### A Familiar Face
+The players come face to face with that same scientist from back then, now a bit older and no longer bouncing around at the slightest thing. 
+_If they want to roll they can. If they fail then they dont know that the scientist is [[Belladonna Faraday]]_
 ## Arc 3 - The Decisons
 ### The Prism Fight - End of Arc 3
 ### Stage 1

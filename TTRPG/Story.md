@@ -247,7 +247,15 @@ Months after returning from the [[Canevery Space Station|station]] the party is 
 #### Grenade
 Days after the [[Canevery Space Station|station]] exploded, several sample containers were found with holes burned in them.
 # 3
-## 3A
+## Side A - Soldiers
+### Chapter 1 - Dominos
+Side A opens to the party meeting with a set of diplomats (the party of Side B). This meeting is where they will meet their [[TTRPG/Characters#Newtone|handler]] and also be given their mission.
+
+### Chapter 2 - Rise
+\[mission and travel]
+
+
+
 - Despite the setback from [[PHSC Story#Moonfall|Moonfall]], [[Cruxolutions#Astraveel|Astraveel]] pushed forward and created a series of off planet bases
 	- [[Verdanta]] would use some of these to expand their experiments
 		- Has much less prominent role
@@ -258,11 +266,54 @@ Days after the [[Canevery Space Station|station]] exploded, several sample conta
 		- exposing the dirty dealings of the brothers and collapsing their empire.
 		- Or working for them full time as one the most trusted members
 	- While out collecting debts, several new religious groups would pop up and begin to rise to prominence
-## 3B
+
+### Chapter 3 - Fall
+The party ends up at the old mining plant. The journey in will be extremely uneventful until they find the "arms dealer". Then they will learn it was a set up and the fight will begin.
+#### Survive
+##### Outer Wall
+The start of the fight, slowly reveal how many enemies there are until they choose to retreat.
+##### Mid Wall
+Keep the same amount of enemies as the Outer Wall and push them further back (they can loose some structure points here)
+##### Inner Wall
+Push hard, drive them closer to death
+##### Reactor
+Max out the amount of enemies and nuke their last few structure points. Have the handler in the background absolutely loosing it. No point in trying to write them down, just ad lib it until they are right on death.
+
+#### Connection Terminated
+Once they are fully driven to no return start the script.
+
+> Ok, ok, I can fix this. I'm calling a friend they should be-
+> *static cut*
+> (automated voice) Connection Terminated. New Connection Establised
+> Hi. My name is __ , and I'm the Head of Security here at [[Bertan Brothers#Bertan Brother Inc.|Bertan Brother Inc.]].
+> If you're hearing this, you must be in a very, very bad situation.
+> Well, rest assured friend, our cleaners with state-of-the-art tech are on their way.
+> Why dontcha just go on and find a nice spot where we can find you later.
+> (Laughing) Alright, alright.
+> Let's be honest. You're not supposed to be here.
+> This is the single most high security, high clearance site in the whole [[The Rings#Far Outer Ring|Far Outer Ring]].
+> When someone finds you down here, you will be shot, if you're not dead already.
+> And before you get any ideas, don't think you can just sneak away either.
+> No, the second you stepped inside, it set off an alarm.
+> So that team I mentioned earlier, they're on their way.
+> Pretty nifty, huh? Security is very important to us here.
+> If I were you, I'd make my peace with the gods.
+
+Kill them :) and flip to Side B
+## Side B - Diplomats
+### Chapter 1 - Set the Pieces
+Side B opens to the same meeting as Side A. The diplomats are at the same meeting and once it ends they begin overseeing the [[Mycologia Revitalization]] initiative with the help of __ .
+
+### Chapter 2 - Set the Board
 - [[Mycologia]] would begin to clean up and heal the [[Fellands]]
 	- Would expand their influence and they would be the leaders in medicine and would begin to break tradition in several places
 - [[The Prism]] _could_* be a way of bringing in magic
 	- \*Not recommended but wouldn't object
 	- Would rather use it as a way of viewing and interacting with alternate timelines
 		- Would allow for alternate world with "magic"
-	- Would be fun to make 4 a fallout inspired wasteland where the [[Outbreak]] wasn't contained and ravaged the world
+		- Would be fun to make 4 a fallout inspired wasteland where the [[Outbreak]] wasn't contained and ravaged the world
+
+### Chapter 3 - Finish the Game
+The party is brought back to an [[Atalanta System#Towers|Atalanta Tower]] where they are watching the soldiers from Side A fight for their lives. Over the comms can be heard their handler trying to make sure they get out alive. __ then cuts off their comms and begins speaking.
+(que script form Side A)
+Once finish __ turn to the party and leads them back to a conference room.
